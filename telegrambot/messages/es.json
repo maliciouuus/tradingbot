@@ -1,0 +1,22 @@
+
+{
+"saisir_code": "💎 ¡Gerente de Grupo Nova! 💎\n\n¡Bienvenido!\n\nPara comenzar, por favor ingresa tu código de acceso. Si no lo tienes, ingresa NOVA para verificar que no eres un robot:",
+"reply_text": "👋 ¡Bienvenido!\n\nCrea tu cuenta de broker haciendo clic en 🤖. Una vez creada la cuenta, realiza un depósito de 200 euros para obtener acceso. Luego, haz clic en ✅ para confirmar:",
+"novagroup": "💎 ¡Gerente del Grupo Nova! 💎\n\n🔥 Acceso al Panel de Trading\n\n💼 Administra tus grupos y configuraciones fácilmente.\n\n🚀 Haz clic en los botones debajo para acceder a nuestros servicios",
+"groups_button": "🔹 Grupos",
+"para_button": "⚙️ Configuraciones",
+"auto_button": "🤖 Automatización",
+"change": "Cambio realizado ✅",
+"return": "↩️ Volver",
+"contact_message": "📞 Si tienes preguntas o inquietudes, contáctanos en la siguiente dirección: @Novaofficiel\n\n🤝 ¡Nuestro equipo está aquí para ayudarte!",
+"contact_button": "📞 Contacto",
+"langue_button": "🌐 Idioma",
+"choisirlangue": "Elige tu nuevo idioma:",
+"code_error": "El código ingresado no es válido. Por favor, intenta nuevamente usando /start.",
+"groups_text": "📢 Aquí están todos los grupos de alerta a los que puedes acceder:\n\n",
+"groups_text2": "Selecciona un grupo para unirte haciendo clic en el botón correspondiente.",
+"error_groups": "⚠️ ¡No tienes acceso a los grupos de alerta!",
+"automate": "🤖 Instrucciones para acceder a la Automatización 🤖\n\nAquí está el código que debes ingresar después de ver el video.\n\nk5Xzy1Yg\n\nhttps://www.myfxbook.com/portfolio/nova/10401665\n",
+"video": "https://www.youtube.com/watch?v=LnGaQgpBNQE",
+"welcome": "🤖 ¡Hola! ¡Es genial verte aquí! 🎉\n\nAntes de sumergirte en el emocionante mundo del trading, aquí tienes los pasos a seguir:\n\n1. 📲 Primero descarga la aplicación MetaTrader 5 en tu dispositivo.\n\n2. 🔗 Inicia sesión en tu cuenta Raise FX usando la información que recibiste por correo electrónico.\n\n3. ✅ Una vez que hayas iniciado sesión con éxito, vuelve aquí y escribe /start para comenzar."
+}

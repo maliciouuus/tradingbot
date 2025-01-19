@@ -1,0 +1,21 @@
+{
+    "saisir_code": "💎 Nova Group Manager 💎\n\nBienvenue !\n\nPour commencer, veuillez saisir votre code d'accès. Si vous n'en possédez pas, veuillez saisir NOVA afin de vérifier que vous n'êtes pas un robot :",
+    "reply_text": "👋 Bienvenue !\n\nCréez votre compte broker en cliquant sur 🤖 une fois le compte créé veuillez effectuer de 200 euros pour avoir l'accès. Ensuite, veuillez cliquer sur ✅ pour confirmer :",
+    "novagroup": "💎 Nova Group Manager 💎\n\n🔥 Accès au Panel de Trading\n\n💼 Gérez vos groupes et vos paramètres facilement.\n\n🚀 Cliquez sur les boutons ci-dessous pour accéder à nos services",
+    "groups_button": "🔹 Groupes",
+    "para_button": "⚙️ Paramètres",
+    "auto_button": "🤖 Automate",
+    "change": "Changement effectué ✅",
+    "return": "↩️ Retour",
+    "contact_message": "📞 Si vous avez des questions ou des préoccupations, veuillez nous contacter à l'adresse suivante : @Novaofficiel \n\n🤝 Notre équipe est là pour vous aider !",
+    "contact_button": "📞 Contact",
+    "langue_button": "🌐 Language",
+    "choisirlangue": "Choisissez votre nouveau language:",
+    "code_error": "Le code envoyé n'est pas valide. Veuillez réessayer en utilisant /start.",
+    "groups_text": "📢 Voici tous les groupes d'alertes accessibles pour vous :\n\n",
+    "groups_text2": "Choisissez un groupe pour le rejoindre en cliquant sur le bouton correspondant..",
+    "error_groups": "⚠️ Vous n'avez pas accès aux groupes d'alertes !",
+    "automate": "🤖 **Instructions pour se connecter à l'Automate** 🤖\n\n Voici le code à entrer une fois la vidéo visionnée.\n\n**k5Xzy1Yg**\n\nhttps://www.myfxbook.com/portfolio/nova/10401665\n",
+    "video": "https://www.youtube.com/watch?v=LnGaQgpBNQE",
+    "welcome": "🤖 Salut ! Super de te voir ici ! 🎉\n\nAvant de plonger dans le monde passionnant du trading, voici les étapes à suivre :\n\n1. 📲 Télécharge d'abord l'application MetaTrader 5 sur ton appareil.\n\n2. 🔗 Connecte-toi à ton compte Raise FX en utilisant les informations que tu as reçues par e-mail.\n\n3. ✅ Une fois connecté avec succès, reviens ici et tape /start pour démarrer."
+}
