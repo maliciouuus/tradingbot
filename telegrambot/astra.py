@@ -2,8 +2,8 @@ from telethon.sync import TelegramClient, events
 from telethon.tl import types
 import asyncio
 
-api_id = '9040052'
-api_hash = '99d26ac62559b43d4b8835063f67e763'
+api_id = ''
+api_hash = ''
 source_invite_link_1 = "https://t.me/+RwruW3POM2FmYjQ5"
 destination_invite_link_1 = "https://t.me/+A8mswUv1lKthM2Nk"
 source_invite_link_2 = "https://t.me/joinchat/AAAAAEp-9Wy82vc3BXhLTA"
